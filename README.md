@@ -1,5 +1,5 @@
 # Shalinis_19137
-![logo](https://github.com/Shalinis19137/Shalinis-kumari/blob/main/Grey%20and%20White%20Geometric%20Real%20Estate%20LinkedIn%20Article%20Cover%20Image.mp4)
+![logo](https://github.com/Shalinis19137/Shalinis-kumari/blob/main/Screenshot%202024-10-28%20195004.png)
 <h1 align="center">Hi 👋, I'm Shalini Kumari</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 <image align="right" width="300px" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=d849cd2fkoe93y9l1o5ifz8i64ex491vkwp9a6ko0dy8jzzb&rid=giphy.gif&ct=g">

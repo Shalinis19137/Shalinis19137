@@ -7,8 +7,7 @@
 
 </br>
 
-![logo](https://github.com/Shalinis19137/Shalinis-kumari/blob/main/Screenshot%202024-10-28%20195004.png)
-
+![Black Minimalist Elegant Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/40ccdd3e-b60e-4e75-a3ee-8e40e334b388)
 
 
 </br>

@@ -7,7 +7,7 @@
 
 </br>
 
-![Black Minimalist Elegant Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/40ccdd3e-b60e-4e75-a3ee-8e40e334b388)
+
 
 
 </br>

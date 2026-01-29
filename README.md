@@ -7,7 +7,8 @@
 
 </br>
 
-![logo]
+![logo]<img width="204" height="192" alt="git" src="https://github.com/user-attachments/assets/13b80d43-eafb-418e-aede-6cf70fd94446" />
+
 
 </br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">

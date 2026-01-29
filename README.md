@@ -50,7 +50,7 @@
 <br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalinis19137&show_icons=true&locale=en&layout=compact" alt="shalinis19137" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalinis19137&show_icons=true&locale=en&layout=compact" alt="shalinis19137" width="100px" height="100px" /></p>
 
 
 

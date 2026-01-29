@@ -5,13 +5,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-</br>
+<img width="204" height="192" alt="git" src="https://github.com/user-attachments/assets/c3e9de38-f6f5-46bf-a835-07c1afaa0dab" />
 
-
-
-
-</br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Shalini Kumari</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>

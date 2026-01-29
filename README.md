@@ -1,13 +1,5 @@
 # Shalinis_19137
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ .-->
-<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-<img width="204" height="192" alt="git" src="https://github.com/user-attachments/assets/c3e9de38-f6f5-46bf-a835-07c1afaa0dab" />
-
-
 <h1 align="center">Hi 👋, I'm Shalini Kumari</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 <image align="right" width="300px" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=d849cd2fkoe93y9l1o5ifz8i64ex491vkwp9a6ko0dy8jzzb&rid=giphy.gif&ct=g">

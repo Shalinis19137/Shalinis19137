@@ -32,7 +32,6 @@
 
 <br><br>
  <b>Hacktoberfest Badges </b><br>
- [![An image of @shalinis19137's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shalinis19137)](https://holopin.io/@shalinis19137)
 
  <br><br>
 
